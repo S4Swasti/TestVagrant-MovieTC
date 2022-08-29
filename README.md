@@ -8,7 +8,7 @@
   <li><a href=https://www.oracle.com/java/technologies/downloads>Download</a> Java according to your system verion 17</li>
   <li><a href="https://www.selenium.dev/downloads/">Download</a> Selenium Server 4.4.0 version</li>
   <li><a href="https://maven.apache.org/download.cgi">Download</a> Maven 3.8.6 version</li>
-  <li>Add TestNg Jar files and dependencies updating the verions</li>
+  <li>Add TestNg Jar files and dependencies updating the versions</li>
 </ol>
 
 ## Work on the Project
